@@ -26,6 +26,7 @@ sass:
   style:            compressed
 
 # Comments
+disqus: True
 shortname:   riri0602
 
 # Social
