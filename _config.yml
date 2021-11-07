@@ -26,6 +26,7 @@ sass:
   style:            compressed
 
 # Comments
+provider : disqus
 disqus: True
 disqus_shortname:   https-riri0602-github-io
 
