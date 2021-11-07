@@ -1,37 +1,24 @@
 ---
 layout: page
-title: About the Theme
-tags: [final, project, Jekyll, bigdata, IT]
+title: 프로젝트 소개
+tags: [about]
 date: 2021-11-07
 comments: false
 ---
     
-<center><a href="http://riri0602.github.io"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>This is Final Project.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Project
+* 빅데이터 환경 구축
 
-## Preview
+## Team member
+* 김효진(19681008)
+* 한규리(18681032)
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Roll
+* 팀원이 두 명인 관계로 전체적인 것은 함께 진행하며, 업로드를 각자의 GitHub 계정에서 할 예정
+* 관련 소스 GitHub 업로드 관리 : 김효진
+* 블로그 관리 : 한규리
+* 데이터 수집
+* 분산 환경 저장/처리 : 데이터 레이크
+* 시각화
