@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 프로젝트 소개
-tags: [about]
+tags: [about, introduce]
 date: 2021-11-07
 comments: false
 ---
