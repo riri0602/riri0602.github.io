@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "댓글 테스트"
-date: {{#time:Y-m-d H:i:s}}
+date: 2021-11-07
 excerpt: "댓글 테스트용"
-tags: [test, jekyll, upload]
+tags: [test, jekyll, comments]
 comments: true
 ---
 
