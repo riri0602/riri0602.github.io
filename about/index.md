@@ -3,7 +3,7 @@ layout: page
 title: 프로젝트 소개
 tags: [about, introduce]
 date: 2021-11-07
-comments: false
+comments: true
 ---
     
 <center>This is Final Project.</center>
