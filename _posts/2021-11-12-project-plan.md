@@ -7,7 +7,7 @@ tags: [project, plan]
 comments: true
 ---
 
-        # Big Data Final Project
+# Big Data Final Project
 
 <br>
 
@@ -19,7 +19,7 @@ comments: true
 <br>
 <br>
 
-        ## 프로젝트 주차별 계획
+## 프로젝트 주차별 계획
 
 <br>
 
@@ -37,14 +37,11 @@ comments: true
 <br>
 <br>
 
-        ## About the Meeting
+## About the Meeting
 
 <br>
 
-### I. 프로젝트 목적
-
-<br>
-
+    I. 프로젝트 목적
 1.  빅데이터 환경을 구성
 2.  빅데이터 수집 및 분석
 3.  데이터 처리와 플랫폼을 이용한 시각화
@@ -52,9 +49,6 @@ comments: true
 <br>
 <br>
 
-### II. 프로젝트 깃허브 주소
-
-<br>
-
+    II. 프로젝트 깃허브 주소
 * Blog - https://github.com/riri0602/riri0602.github.io (한규리)
 * Project Code - https://github.com/Kimhyojinn/Project  (김효진)
