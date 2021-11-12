@@ -10,13 +10,13 @@ comments: true
 # Big Data Final Project
 
 
-* Team Member
+* 팀원
   * 김효진(19681008)
   * 한규리(18681032) 
 
 
 
-## Project Plan
+## 프로젝트 주차별 계획
 
 | 주차 | 계획 | 팀원 |
 |:--------:|:-------:|:--------:|
@@ -26,18 +26,18 @@ comments: true
 | 14주차  | 샘플 생성, 발표 준비  | 김효진, 한규리  |
 | 15주차  | 프로젝트 발표 | 김효진, 한규리  |
 
- 세부 계획 변동 가능성 있음
+ > 세부 계획 변동 가능성 있음
 
 
 
 ## About the Meeting
 
-### I. Purpose of Project
-* 빅데이터 환경을 구성
-* 빅데이터 수집 및 분석
-*  데이터 처리와 플랫폼을 이용한 시각화
+### I. 프로젝트 목적
+1.  빅데이터 환경을 구성
+2.  빅데이터 수집 및 분석
+3.  데이터 처리와 플랫폼을 이용한 시각화
 
 
-### II. Project GitHub Url
+### II. 프로젝트 깃허브 주소
 * Blog - https://github.com/riri0602/riri0602.github.io (한규리)
 * Project Code - https://github.com/Kimhyojinn/Project  (김효진)
