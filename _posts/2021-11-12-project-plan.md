@@ -32,11 +32,11 @@ comments: true
 
 ## About the Meeting
 
-  ### I. Purpose of Project
-  1) 빅데이터 환경을 구성
-  2) 빅데이터 수집 및 분석
-  3) 데이터 처리와 플랫폼을 이용한 시각화
+### I. Purpose of Project
+1) 빅데이터 환경을 구성
+2) 빅데이터 수집 및 분석
+3) 데이터 처리와 플랫폼을 이용한 시각화
 
-  ### II. Project GitHub Url
-  * Blog - https://github.com/riri0602/riri0602.github.io (한규리)
-  * Project Code - https://github.com/Kimhyojinn/Project  (김효진)
+### II. Project GitHub Url
+* Blog - https://github.com/riri0602/riri0602.github.io (한규리)
+* Project Code - https://github.com/Kimhyojinn/Project  (김효진)
