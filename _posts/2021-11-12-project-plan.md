@@ -16,8 +16,6 @@ comments: true
   * 한규리(18681032) 
 
 <br>
-<br>
-<br>
 
 ## 프로젝트 주차별 계획
 
@@ -36,13 +34,12 @@ comments: true
 
 <br>
 <br>
-<br>
 
 ## About the Meeting
 
 <br>
 
-I. 프로젝트 목적
+### I. 프로젝트 목적
     
 1.  빅데이터 환경을 구성
 2.  빅데이터 수집 및 분석
@@ -51,7 +48,7 @@ I. 프로젝트 목적
 <br>
 <br>
 
-II. 프로젝트 깃허브 주소
+### II. 프로젝트 깃허브 주소
 
 * Blog - https://github.com/riri0602/riri0602.github.io (한규리)
 * Project Code - https://github.com/Kimhyojinn/Project  (김효진)
