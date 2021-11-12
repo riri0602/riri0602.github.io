@@ -48,5 +48,8 @@ comments: true
 
 ### II. 프로젝트 깃허브 주소
 
-* Blog - https://github.com/riri0602/riri0602.github.io (한규리)
-* Project Code - https://github.com/Kimhyojinn/Project  (김효진)
+* Blog - [한규리][blog]
+* Project Code - [김효진][code]
+
+[blog]: https://github.com/riri0602/riri0602.github.io
+[code]: https://github.com/Kimhyojinn/Project
