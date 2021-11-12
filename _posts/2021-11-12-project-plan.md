@@ -33,9 +33,9 @@ comments: true
 ## About the Meeting
 
 ### I. Purpose of Project
-1) 빅데이터 환경을 구성
-2) 빅데이터 수집 및 분석
-3) 데이터 처리와 플랫폼을 이용한 시각화
+* 빅데이터 환경을 구성
+* 빅데이터 수집 및 분석
+*  데이터 처리와 플랫폼을 이용한 시각화
 
 
 ### II. Project GitHub Url
