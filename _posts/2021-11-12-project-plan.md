@@ -41,9 +41,7 @@ comments: true
 
 <br>
 
-    I. 프로젝트 목적\
-
-<br>
+I. 프로젝트 목적
     
 1.  빅데이터 환경을 구성
 2.  빅데이터 수집 및 분석
@@ -52,9 +50,7 @@ comments: true
 <br>
 <br>
 
-    II. 프로젝트 깃허브 주소
-
-<br>
+II. 프로젝트 깃허브 주소
 
 * Blog - https://github.com/riri0602/riri0602.github.io (한규리)
 * Project Code - https://github.com/Kimhyojinn/Project  (김효진)
